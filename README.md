@@ -36,6 +36,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to customize this description based on the specific details of your project. Update the placeholder URLs, usernames, and any other information as needed.
